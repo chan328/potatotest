@@ -1,2 +1,1 @@
-# potatotest
-learn about how to use github
+최지웅 감자충임 ㄹㅇ;;
